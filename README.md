@@ -1,5 +1,8 @@
 # libft
 Libft is a School 42 project. The purpose of this project is to create own C library.
+<p align="center">
+  <img src="https://camo.githubusercontent.com/cefb9f3f7e0f3bd39b8597e7d8bf960e09cdfa17e287c6936be732372d59a3c8/68747470733a2f2f692e696d6775722e636f6d2f656e38724a70532e706e67" width="70%" "/>
+</p>
 
 ### Libc functions
 
