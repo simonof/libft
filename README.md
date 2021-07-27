@@ -6,7 +6,7 @@ Libft is a School 42 project. The purpose of this project is to create own C lib
 
 ### Libc functions
 
-* [ft_memset](/libft/ft_memset.c)
+* [ft_memset](https://github.com/simonof/libft/blob/main/ft_memset.c)
 * [ft_bzero](/libft/ft_bzero.c)
 * [ft_memcpy](/libft/ft_memcpy.c)
 * [ft_memccpy](/libft/ft_memccpy.c)
