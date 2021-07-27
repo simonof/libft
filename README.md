@@ -62,3 +62,4 @@ Libft is a School 42 project. The purpose of this project is to create own C lib
 * [ft_putendl_fd](/libft/ft_putendl_fd.c)
 * [ft_putnbr_fd](/libft/ft_putnbr_fd.c)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
